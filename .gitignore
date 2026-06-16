@@ -1,0 +1,6 @@
+best_size_large.pth
+venv/
+node_modules/
+__pycache__/
+*.pyc
+.env
